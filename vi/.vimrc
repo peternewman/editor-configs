@@ -9,7 +9,7 @@ syntax on
 " See http://vim.wikia.com/wiki/Indenting_source_code
 set expandtab
 set shiftwidth=2
-set softtabstop=4
+set softtabstop=2
 
 " Wrap everything to 80 characters and highlight everything over 80 in red.
 set textwidth=79
