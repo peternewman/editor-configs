@@ -9,3 +9,5 @@ Config files for various editors / IDEs to ensure compatibility with the OLP sty
 ## Editors we should include
 
 * MPLAB X
+* Nano
+* Xcode
